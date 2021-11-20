@@ -26,9 +26,9 @@
 # Future things to add:
 #       grammar checks for the email
 #       create a local db to store past malicious addresses and keep stats on them
-#       Create log file to track what the analyst response is to the emails
 #       create auto response for emails that match phishing emails that have already been analyzed
 #       learn api for urlscan.io to see if you can automate the process of scanning urls
+#       variable check for when you classify the email
 #
 #Long term goal:
 #       Create GUI to display all of the data in an easy to read manner
